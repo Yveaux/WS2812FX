@@ -1,3 +1,7 @@
+NOTE! This is a hacked version of the original WS2812FX library which supports running multiple simultaneous effects on a single LED string!
+======================================
+
+
 ![WS2812FX library](https://raw.githubusercontent.com/kitesurfer1404/WS2812FX/master/WS2812FX_logo.png)
 
 WS2812FX - More Blinken for your LEDs!
